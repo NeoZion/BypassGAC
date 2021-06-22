@@ -1,3 +1,3 @@
 # BypassGAC
 
-## The goal of this project is to circumvent the game and fight against cheating.
+### 此项目的主要目的是绕过各类游戏反作弊系统。第一部分是介绍反作弊系统的主要功能和具体实现。第二部分是绕过反作弊系统。此项目仅限用于交流学习，请勿用于非法之处。
